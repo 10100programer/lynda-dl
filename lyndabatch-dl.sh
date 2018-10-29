@@ -9,8 +9,9 @@
 #Login Area
 username=""
 password=""
-rate=4M
 #Login Area
+
+rate=4M
 
 if [ $# -eq 0 ]
   then
